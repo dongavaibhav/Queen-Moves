@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="lightSquare">#FFCE9E</color>
+    <color name="darkSquare">#D18B47</color>
+    <color name="validMove">#81C784</color>
+    <color name="invalidMove">#E57373</color>
+</resources>
